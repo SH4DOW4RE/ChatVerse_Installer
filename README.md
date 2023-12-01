@@ -1,2 +1,5 @@
 # ChatVerse_Installer
-The Files required by the installer
+
+# DO NOT DOWNLOAD
+
+# PRIVATE USE BY `SH4DOW4RE` ONLY
